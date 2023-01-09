@@ -1,4 +1,4 @@
 ```python
-def print1() :
-    print('와...')
+def print2() :
+    print('빅 최고')
 ```
